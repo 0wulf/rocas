@@ -1,0 +1,38 @@
+main h1 {
+    color: #000;
+    font-size: 3em;
+    font-weight: 300;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+}
+
+main p {
+    color: #000;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.5em;
+    margin: 0 0 1.5em 0;
+    padding: 0;
+}
+
+.code-container {
+    background-color: #efefef;
+    border-radius: 3px;
+    margin: 0% 40%;
+    padding: 10px;
+    text-align: left;
+    line-height: 1em;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .code-container {
+        margin: 0% 30%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .code-container {
+        margin: 0% 20%;
+    }
+}
