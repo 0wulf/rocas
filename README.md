@@ -2,7 +2,6 @@
 ## Propósito
 Este proyecto tiene como objetivo presentar una colección de rocas y minerales de una manera simple pero a la vez artística. Así, el usuario puede navegar por la colección y ver las características de cada roca o mineral.
 ## Connsideraciones de diseño
-- Iterando, encontré más atractivo utilizar una disposición de fichas de tipo `table` en vez de `grid` o `flexbox`. De todas formas, `grid` se utiliza en `index.html`.
 - Se agregó un archivo `main.css` para el estilo general de la página.
 - Forzadamente no se utilizó ni Bootstrap ni Bulma.
 - Asimismo, no se utilizó JavaScript.
